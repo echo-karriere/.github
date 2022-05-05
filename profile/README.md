@@ -1,4 +1,4 @@
-## Hallo alle sammen 👋
+# Hallo alle sammen 👋
 
 ![Påmeldingen er nå åpen!](https://raw.githubusercontent.com/echo-karriere/echo-karriere-static/main/meta_thumbnails/echo_pamelding.png "Påmeldingen er nå åpen!")
 
