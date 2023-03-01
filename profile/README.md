@@ -1,1 +1,1 @@
-# Hallo alle sammen 👋
+# Velkommen til ITxBERGEN sin GitHub
